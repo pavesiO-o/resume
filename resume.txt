@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 foco de carreira: engenharia de machine learning
+=======
+contato: gabrielpavesicorrea@gmail.com
+>>>>>>> 2f481df98d56ebc4734690af976cd31f1099a405
